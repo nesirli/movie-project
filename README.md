@@ -76,7 +76,7 @@ In parallel with the T-SQL cleaning process, Python was used to:
 
 The final interactive visualization of the Movies dataset is hosted on Tableau Public. This dashboard provides dynamic insights into the data:
 
-[![Tableau Public Dashboard](https://public.tableau.com/app/profile/nasir.nesirli/viz/Movies_17393855435270/Movies)]
+[![Tableau Public Dashboard](https://public.tableau.com/static/images/FQ/MoviesViz/1.png)](https://public.tableau.com/shared/FQ95TF4TH?:display_count=n&:origin=viz_share_link)
 
 
 
