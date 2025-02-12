@@ -1,4 +1,4 @@
-# Movies Dataset - Data Cleaning and Feature Extraction
+# Movies Dataset - Data Cleaning and Exploration
 
 This repository contains a data cleaning script for the movies dataset, which is used for feature extraction and prediction tasks.
 
