@@ -19,7 +19,7 @@ A comprehensive project demonstrating data cleaning, exploratory analysis, and i
 
 ## Dataset
 
-The Movies dataset is available on [Kaggle](https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-extracion-prediction?select=movies.csv). It contains various inconsistencies such as non-standardized column names, duplicated rows, mixed year formats (including Roman numerals), whitespace issues, and incorrect data types.
+The Movies dataset is available on [Kaggle](https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extracion-prediction). It contains various inconsistencies such as non-standardized column names, duplicated rows, mixed year formats (including Roman numerals), whitespace issues, and incorrect data types.
 
 ---
 
